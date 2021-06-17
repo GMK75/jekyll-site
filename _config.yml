@@ -13,3 +13,5 @@ assets:
 
 livereload:
   port: 35729
+
+theme: jekyll-theme-merlot
